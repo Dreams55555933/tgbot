@@ -87,6 +87,7 @@ async def echo_message(message: types.Message):
     #     chat_id=message.chat.id,
     #     text="Start processing...",
     # )
+
     # await bot.send_message(
     #     chat_id=message.chat.id,
     #     text="Detected message..."
